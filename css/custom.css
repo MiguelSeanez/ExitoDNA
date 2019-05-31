@@ -45,3 +45,10 @@ section.awSlider .carousel{
     transform: scale(1.1);
     opacity:.5;
   }
+
+  @media(max-width:500px) {
+    section img{
+      width: 100%;
+  }
+}
+  
